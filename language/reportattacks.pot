@@ -1,0 +1,599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ReportAttacks\n"
+"POT-Creation-Date: 2017-03-11 10:25-0000\n"
+"PO-Revision-Date: 2017-03-11 10:25-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: F:\\wordpress\\reportattacks\\trunk\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x;_nx;_e\n"
+"X-Poedit-SearchPath-0: F:\\wordpress\\reportattacks\\trunk\n"
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:62
+msgid "Alert: New Plugin was installed."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:64
+msgid "New Plugin Name"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:66
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:165
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:308
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:379
+msgid "Date"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:67
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:167
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:310
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:381
+msgid "Domain"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:69
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:161
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:313
+msgid "This email was sent from your website"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:70
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:163
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:314
+msgid "by Report Attacks plugin."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:77
+msgid "Alert: New Plugin was installed at"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:166
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:309
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:380
+msgid "Ip"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:168
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:311
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:382
+msgid "User"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:172
+msgid ""
+"Add this IP to your withelist to stop this email and change your "
+"Notification Settings."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:179
+msgid "Login Successful at"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:200
+msgid "Quantity per page"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:306
+msgid ""
+"Alert: the Report Attacks plugin was been deactivated from plugins page."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:335
+msgid "Improve system security and report login brute force attack."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:337
+msgid "Read the StartUp guide at Report Attacks Settings page."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:340
+msgid "Visit the"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:342
+msgid "plugin site"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:344
+msgid "for more details and online guide."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:348
+msgid "Overview"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:377
+msgid "This email was sent from your website "
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:378
+msgid "by ReportAttacks plugin."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:386
+msgid "Failed login"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:393
+msgid "Failed Login at"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:529
+msgid "My WordPress user email"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:588
+msgid "Only authenticated users can access API."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:611
+msgid "Report Attacks Plugin was activated!"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:616
+msgid "For details and help, take a look at Report Attacks at your left menu"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:619
+msgid "or click here"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:10
+msgid ""
+"Open the Request API Key page (under Report Attacks Menu) and follow the "
+"instructions to get your free API KEY."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:15
+msgid ""
+"After receive the Blocklist email with your API KEY, go to Blocklist "
+"Settings Tab and fill out your free API info. Check Yes to begin to report "
+"attacks. We can report attacks when the same IP attempt attacks you more "
+"than 5 times. "
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:19
+msgid ""
+"Open the Plugin General Settings Tab and click over Yes  (to begin to record "
+"failed login attempts)."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:21
+msgid "We suggest check Yes for all."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:23
+msgid "For more details, please, visit our FAQ page)."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:29
+msgid "Important: Add your's  IP address to MY IP White List."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:36
+msgid ""
+"5) At eMail Settings tab, you can customize your contact email or left blank "
+"to use your wordpress eMail."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:41
+msgid ""
+"6) At Notification Settings Tab, you can record your option by receive or "
+"not email alerts about failed logins."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:46
+msgid "Remember to click Save Changes before to left each tab."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:51
+msgid "To manage the failed login's table, go to Failed Logins Table"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:56
+msgid "OnLine Guide"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:58
+msgid "FAQ Page"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:60
+msgid "Support Page"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:67
+msgid "That is all."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/guide/guide.php:70
+msgid ""
+"We hope our plugin makes the Internet better, safer and helps to clean "
+"infected PCs."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:38
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:39
+msgid ""
+"Hi, my name is Bill Minozzi, and I am developer of plugin ReportAttacks."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:41
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:43
+msgid "Thank You!"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:45
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:47
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:49
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:51
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback-last.php:52
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:45
+msgid ""
+"Hi, my name is Bill Minozzi, and I am developer of plugin Report Attacks."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:47
+msgid ""
+"If you like this plugin, please write a few words about it. It will help "
+"other people find this useful plugin more quickly."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:49
+msgid "Thank you!"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:53
+msgid "Rate or Share"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:54
+msgid "No, dismiss"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:55
+msgid "or"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/feedback/feedback.php:56
+msgid "Remind me later"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:44
+msgid "Registration fail. Please, try again. Error:  "
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:87
+msgid "Check your eMail account for email from Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:89
+msgid "Registration fail. Please, try again"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:103
+msgid "You need fill out all fields and accept the Blocklist Terms of Service"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:113
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:119
+msgid "Empty eMail. Please fill out eMail field"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:123
+msgid "Invalid eMail"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:134
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:141
+msgid "Empty Username. Please, fill out username field"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:146
+msgid "Username size need be between 5 and 20"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:153
+msgid ""
+"Invalid Username. You can use only normal characters - A to Z - (also "
+"numbers and underscore) of the English alphabet"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:208
+msgid "Fill Out this form to Get your free Blocklist API KEY"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:211
+msgid "Request once, then check your eMail account for email from Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:213
+msgid "Check also your spam folder."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:218
+msgid "Blocklist User Name *"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:219
+msgid "Type here your username"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:222
+msgid ""
+"To create your user name, you can use only normal characters - A to Z - "
+"(also numbers and underscore) of the English alphabet."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:224
+msgid "Min size 5 max 20"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:229
+msgid "Your eMail *"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:230
+msgid "Type here your email"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:234
+msgid ""
+"Valid email address where you will receive your API KEY from Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:240
+msgid "I read and agree with the terms of service (below) of Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:245
+msgid "All 3 fields are required"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:260
+msgid ""
+"You can also request your free API KEY at: https://www.blocklist.de/en/"
+"register.html"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/list-tables/class-reportattacks-list-table.php:20
+msgid "date and time"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/list-tables/class-reportattacks-list-table.php:21
+msgid "ip"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/list-tables/class-reportattacks-list-table.php:22
+msgid "user"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/list-tables/class-reportattacks-list-table.php:23
+msgid "reported"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/list-tables/class-reportattacks-list-table.php:71
+msgid "Delete"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/reportattacks.php:56
+msgid ""
+"Report Attacks Plugin: Could not load the localization file (Language file)"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/reportattacks.php:58
+msgid "Please, take a look in our site, Online Guide, item => Plugin Language"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/reportattacks.php:152
+msgid "Wrong Username or Password"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:17
+msgid "You need only check yes or no below."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:21
+msgid "Then click SAVE CHANGES."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:25
+msgid "Instructions"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:32
+msgid "Record all failed login not included at IP White List?"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:34
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:44
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:53
+msgid "yes"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:35
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:45
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:54
+msgid "no"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:42
+msgid ""
+"Add extra login protection when ip is not withelisted? (Will request your "
+"WordPress email at login)"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:51
+msgid "Hides all the site (included the login page) to reported IP's?"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:63
+msgid "Yes, disable All"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:64
+msgid "Yes, disable only Ping Back"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:65
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:75
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:85
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:95
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:105
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:115
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:125
+msgid "No"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:72
+msgid ""
+"Disable Json WordPress Rest API (also new WordPress 4.7 Rest API). Take a "
+"look our faq page (at our site) for details."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:74
+msgid "Yes, disable"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:82
+msgid "Sets WordPress to automatically download and install plugin updates."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:84
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:94
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:104
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:114
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:124
+msgid "Yes"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:92
+msgid "Sets WordPress to automatically download and install themes updates."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:102
+msgid ""
+"Sets WordPress to replace the login error message to Wrong Username or "
+"Password"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:112
+msgid "Disable file editing within the WordPress dashboard"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:122
+msgid "Enable dashboard warning message when Debug is true"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:135
+msgid "Add your current ip to your whitelist, then click SAVE CHANGES."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:137
+msgid "If necessary add more than one, use only one ip by line."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:140
+msgid "Your current ip is: "
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:145
+msgid "Customized whitelist"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:150
+msgid "My IP White List"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:156
+msgid ""
+"Fill out the email address to send messages. Left Blank to use your default "
+"Wordpress email."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:160
+msgid "Then, click save changes."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:175
+msgid "Do you want receive email alerts for each login attempt?"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:177
+msgid "If you under bruteforce attack, you will receive a lot of emails."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:189
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:235
+msgid "Yes."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:190
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:236
+msgid "No."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:198
+msgid "Alert me All Successfull Login"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:200
+msgid "Yes, All"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:201
+msgid "No, Alert me Only Not White listed"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:209
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:214
+msgid "Blocklist Instructions"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:212
+msgid ""
+"To get your free Blocklist API Key, go to Request API Key page under the "
+"Repport Attacks menu and follow the instructions there."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:221
+msgid "Blocklist API KEY"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:227
+msgid "Blocklist Sender-Address"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/settings/options/plugin_options_tabbed.php:233
+msgid "Report Attacks (failed logins) to Blocklist.de ?"
+msgstr ""
